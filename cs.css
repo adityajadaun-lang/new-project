@@ -775,3 +775,19 @@ body.light .panel {
     width: 75px;
   }
 }
+/* .projects {
+  align-items: center;
+  display: flex;
+  background:
+    linear-gradient(
+      90deg,
+      var(--panel) 12%,
+      rgba(2,12,26,.2)
+    ),
+    url("images/aim-mountains.jpg") center 52%/cover;
+}
+
+.project-card {
+  background: linear-gradient(140deg, #00e4a0, #00a86b);
+  font-size: 48px;
+} */
